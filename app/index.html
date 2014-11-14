@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Maine Maps</title>
+
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/main.css">
+
+		<script src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="bower_components/angular/angular.min.js"></script>
+		<script src="bower_components/angular-route/angular-route.min.js"></script>
+		<script src="bower_components/angular-resource/angular-resource.min.js"></script>
+		<script src = "bower_components/d3/d3.min.js"></script>
+
+		<script src="js/constants.js"></script>			
+		<script src="js/mapModule.js"></script>				
+		<script src="js/service/mapService.js"></script>
+		<script src="js/controller/mapController.js"></script>
+		<script src="js/directive/mapDirective.js"></script>	
+		
+	</head>
+
+	<body ng-app = "maineMap">
+		<div ng-view></div>		
+	</body>
+</html>

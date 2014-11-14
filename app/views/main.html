@@ -1,0 +1,30 @@
+<div class = "container">
+	<div id = "countyData">
+		County: <span class = "countyDataPoint"> {{countySelection.NAME}}</span>
+		2000 Population: <span class = "countyDataPoint"> {{countySelection.POP2000}}</span>
+	</div>
+	
+	<ng-map></ng-map>
+
+	<div class = "tooltip" id = "countyTooltip">
+		<div id = "countyName">
+			<div id = 'county_name' class = 'county_record'>
+				County: <span id = 'county'>{{countySelection.NAME}}</span>
+			</div>
+            <div id = 'county_fips' class = 'county_record'>
+            	FIPS: <span id = 'fips'>{{countySelection.FIPS}}</span>
+            </div>
+            <div class = 'extra_data'>
+            	<span class = 'pop_year'>2000</span> Population: 
+            	<span id = 'county_population'>{{countySelection.POP2000}}</span>
+            </div>
+            <div class = 'extra_data'>
+            	<span class = 'pop_year'>2000</span> Density (Sq Mi): <span id = 'county_density'>{{countySelection.POP00_SQMI}}</span>
+            </div>
+            <div>Click for 2000 &amp; 2010 Census Data</div>
+		</div>
+	</div>
+	<div class = "tooltip" id = "cityTooltip">
+		<div id = "cityData">{{citySelection}}</div>
+	</div>
+</div>

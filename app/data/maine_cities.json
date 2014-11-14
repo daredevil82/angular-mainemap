@@ -1,0 +1,226 @@
+{
+	"type" : "FeatureCollection",
+	"comment" : "A Collection of Maine's largest cities with lat/long coordinates",
+	"features" : [
+		{
+			"type" : "Feature",
+			"properties" : {
+				"name" : "Portland"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [43.666667, -70.266667]
+			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Lewiston"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.0975, -70.1925]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Bangor"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.803611, -68.770278]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Scarborough"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [43.583333, -70.352778]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Auburn"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.083333, -70.233333]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Biddeford"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [43.474167, -70.446111]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Augusta"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.323535, -69.765261]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Millinocket"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [45.657222, -68.710278]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Houlton"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [46.125556, -67.839722]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Calais"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [45.166111, -67.2425]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Bath"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [43.916389, -69.8225]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Farmington"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.668992, -70.146378]
+ 			} 
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Ellsworth"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.572222, -68.476111]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Rockland"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.109444, -69.114722]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Wiscasset"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.002808, -69.665864]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Paris"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.259722, -70.500556]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Dover-Foxcroft"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [45.186111, -69.220278]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Skowhegan"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.76481, -69.718389]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Belfast"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.425833, -69.011667]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Machias"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [44.683333, -67.466667]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Alfred"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [43.4825, -70.718611]
+ 			}
+ 		},
+ 		{
+ 			"type" : "Feature",
+ 			"properties" : {
+ 				"name" : "Caribou"
+ 			},
+ 			"geometry" : {
+ 				"type" : "Point",
+ 				"coordinates" : [46.863611, -67.998056]
+ 			}
+ 		}
+	]
+}
